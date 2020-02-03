@@ -1,6 +1,6 @@
 ## Modern Health Back-End Take Home Exercise
 
-Setup: 
+Instructions: 
 
 1. Create a virtual environment and source it by running `python -m venv venv` followed by `source venv/bin/activate`.
 
