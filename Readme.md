@@ -8,7 +8,7 @@ Setup:
 
 3. Install postgress and create a postgres database. This guide assumes you already have postgres installed.  Run `psql -U <USER_NAME>` to login and run `create database <YOUR_DB_NAME>;` to create a database. 
 
-4. Export the following database environment variables with valid values for Django to use: 
+4. Export the following database environment variables your valid values for Django to use: 
 
  `export DATABASE_USR=`
 
