@@ -1,10 +1,10 @@
-##Modern Health Back-End Take Home Exercise
+## Modern Health Back-End Take Home Exercise
 
 Setup: 
 
 1. Create a virtual environment and source it by running `python -m venv venv` followed by `source venv/bin/activate`.
 
-2. Install all python requirements: `pip install -r requirements.txt`
+2. Cd into ` MH_Backend_Exercise` and install all python requirements: `pip install -r requirements.txt`
 
 3. Install postgress and create a postgres database. This guide assumes you already have postgres installed.  Run `psql -U <USER_NAME>` to login and run `create database <YOUR_DB_NAME>;` to create a database. 
 
