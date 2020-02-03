@@ -1,5 +1,7 @@
 ## Modern Health Back-End Take Home Exercise
 
+This API is built with django. Main API logic is in `MH_Backend_Exercise/modernHealth/programLibrary/views.py`
+
 Instructions: 
 
 1. Create a virtual environment and source it by running `python -m venv venv` followed by `source venv/bin/activate`.
