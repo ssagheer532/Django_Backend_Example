@@ -1,6 +1,6 @@
 ## Modern Health Back-End Take Home Exercise
 
-This API is built with django. Main API logic is in `MH_Backend_Exercise/modernHealth/programLibrary/views.py`
+This API is built with django with a postgres database. Main API logic is in `MH_Backend_Exercise/modernHealth/programLibrary/views.py`
 
 Instructions: 
 
