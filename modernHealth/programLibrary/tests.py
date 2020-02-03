@@ -1,7 +1,7 @@
 from django.test import TestCase, Client
 import json
 class SimpleTest(TestCase):
-    fixtures = [r"""dummyData.json""", ]
+    fixtures = ['dummyData.json', ]
     client = Client()
 
     def test_getting_existing_program(self):
